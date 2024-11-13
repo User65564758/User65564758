@@ -1,19 +1,11 @@
 - 👋 Hi, I’m @User65564758
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...sosyal medya yöneticisi
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...telefon numaramdan ulaşabilirsiniz 05319454904
+- ⚡ Fun fact: ...main yusoffical41
 
 <!---
 User65564758/User65564758 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----echo "# Yusuf" >> README.md 
-git init 
-git add README.md 
-git commit -m "ilk commit" 
-git branch -M main 
-git remote add origin https://github.com/User65564758/Yusuf.git
- git push -u origin mainhindpoun are you the end forw are kode card 1 your yusuf çengin
- year plas fişh pred end yusuf}README.md
+You can click the 
